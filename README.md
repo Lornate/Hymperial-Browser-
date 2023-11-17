@@ -1,4 +1,4 @@
-## Prerequisites
+## Hymperial Browser
 [GoLang](https://golang.org/dl/) <br>
 
 ## Development setup
@@ -12,13 +12,13 @@ vi ~/.bash_profile
 export GOPATH="<desired path>"
 eg: export GOPATH="/Users/me/go"
 ```
-Create the following folder structure from the go path
+Pianta e traccia il tuo albero 
 ```
 cd <go path>
 eg:cd /Users/me/go
 ```
 
-### Build and Run Locally
+### Guardancome cresc il tuo albero
 Go to the git repo and run dep to fetch vendor libraries
 ```
 dep ensure
