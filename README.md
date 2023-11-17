@@ -1,8 +1,8 @@
 ## Hymperial Browser
 [GoLang](https://golang.org/dl/) <br>
 
-## Development setup
-### Project setup
+### Configurazione e svilupo
+### impostazioni del progetto 
 Set the go path in ~/.bash_profile
 ```
 vi ~/.bash_profile
@@ -18,7 +18,7 @@ cd <go path>
 eg:cd /Users/me/go
 ```
 
-### Guardancome cresc il tuo albero
+### Guarda come cresce  il tuo albero
 Go to the git repo and run dep to fetch vendor libraries
 ```
 dep ensure
